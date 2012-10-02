@@ -1,4 +1,3 @@
-#!/usr/bin/python
 # Ikke pille
 import pygame
 from setup_game import *
