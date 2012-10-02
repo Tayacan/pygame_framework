@@ -8,7 +8,7 @@ def main ():
     size = (800,600)
 
     game.setup()
-    while setup_game.running:
+    while True:
         game.events()
         game.loop()
         pygame.display.flip()
